@@ -1,3 +1,4 @@
+![logo](https://github.com/Ayushsh0101/Ayushsh0101/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ayush sharma</h1>
 <h3 align="center">A passionate Web developer</h3>
 <img align="right" alt="gif" width="400" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif"
